@@ -1,6 +1,6 @@
 # Getting Started
 
-Welcome to your new project.
+Tutorial app for SAP Fiori Elements using a local CAP Model as backend service
 
 It contains these folders and files, following our recommended project layout:
 
